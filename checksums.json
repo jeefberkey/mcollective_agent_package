@@ -1,0 +1,20 @@
+{
+  "README.md": "5e5e96b5f54423ed8f3c35b6dd7d632c",
+  "data/defaults.yaml": "aa6e24bbaac25365030d0f79b6ede47f",
+  "data/plugin.yaml": "aa7431fc7903ca1b90942cadce053e2e",
+  "files/mcollective/mcollective_package_agent/agent/package.ddl": "71bbffd582ea2ce7b986764480a3f48b",
+  "files/mcollective/mcollective_package_agent/agent/package.rb": "60d4b37d3844fc379a99d2b17a243620",
+  "files/mcollective/mcollective_package_agent/application/package.rb": "4e6571cdac3f6aa322c9f195693e1dbe",
+  "files/mcollective/mcollective_package_agent/data/package_data.ddl": "1d80b38a9bab687890efd6530faf796f",
+  "files/mcollective/mcollective_package_agent/data/package_data.rb": "8c7f1f06cfd0b0fa6a52d2b355e591ca",
+  "files/mcollective/mcollective_package_agent/util/package/base.rb": "1bdb7e7a6dcfea6fd2a06c5dc39b7276",
+  "files/mcollective/mcollective_package_agent/util/package/packagehelpers.rb": "312aecc3b1ee75f97a989fea3e7a221d",
+  "files/mcollective/mcollective_package_agent/util/package/puppetpackage.rb": "865eec36ae05c30b072d3f5bd871fb52",
+  "files/mcollective/mcollective_package_agent/util/package/yumHelper.py": "40fa99ef10b84c38517f6b695a0af533",
+  "files/mcollective/mcollective_package_agent/util/package/yumpackage.rb": "256bde1567d8794ca929092462f5ae03",
+  "files/mcollective/mcollective_package_agent/validator/package_name.ddl": "c2aaafaf51ca4ad85bdf9aabaac999ad",
+  "files/mcollective/mcollective_package_agent/validator/package_name.rb": "f919761d5ba7db0773d92fa199ef0032",
+  "hiera.yaml": "3d31dfa7be184e008811f2ee66b361b3",
+  "manifests/init.pp": "914d0d17e6290bae07b81f445bade014",
+  "metadata.json": "6b41405891868f48ebcedecff8ac6ef6"
+}

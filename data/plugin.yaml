@@ -1,0 +1,22 @@
+---
+mcollective_agent_package::config_name: package
+mcollective_agent_package::common_files:
+- mcollective_package_agent/data/package_data.ddl
+- mcollective_package_agent/data/package_data.rb
+- mcollective_package_agent/util/package/puppetpackage.rb
+- mcollective_package_agent/util/package/yumHelper.py
+- mcollective_package_agent/util/package/base.rb
+- mcollective_package_agent/util/package/packagehelpers.rb
+- mcollective_package_agent/util/package/yumpackage.rb
+- mcollective_package_agent/validator/package_name.rb
+- mcollective_package_agent/validator/package_name.ddl
+- mcollective_package_agent/agent/package.ddl
+mcollective_agent_package::common_directories:
+- mcollective_package_agent/util/package
+mcollective_agent_package::server_files:
+- mcollective_package_agent/agent/package.rb
+mcollective_agent_package::server_directories: []
+mcollective_agent_package::client_files:
+- mcollective_package_agent/application/package.rb
+mcollective_agent_package::client_directories: []
+
